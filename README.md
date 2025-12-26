@@ -17,7 +17,7 @@ Model evaluation using Accuracy Score, Confusion Matrix, Classification Report
 
 Below are the major libraries used in this project:
 
-Python 3.x pandas numpy matplotlib seaborn scikit-learn jupyter
+Python,pandas,numpy,matplotlib,seaborn,scikit-learn,jupyter
 
 
 
