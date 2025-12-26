@@ -6,6 +6,7 @@ the Titanic dataset based on features such as age, gender, passenger class, and 
 🧠 Project Overview:
 
 The notebook includes:
+
 Data loading and preprocessing
 Exploratory Data Analysis (EDA)
 Correlation matrix and heatmap using Seaborn
