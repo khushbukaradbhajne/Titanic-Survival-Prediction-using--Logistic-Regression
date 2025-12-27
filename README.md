@@ -1,4 +1,4 @@
-📊Titanic Survival Prediction using Logistic Regression:
+**📊Titanic Survival Prediction using Logistic Regression:**
 
 This project uses a Logistic Regression machine learning model to predict whether a passenger survived the Titanic dataset based on features such as age, gender, passenger class, and fare.
 
